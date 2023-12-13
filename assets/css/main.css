@@ -22,7 +22,7 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #adc1c2;
+  --color-primary: #ffffff;
   --color-secondary: #adc1c2;
 }
 
@@ -67,7 +67,7 @@ section {
 }
 
 .sections-bg {
-  background-color: #f6f6f6;
+  background-color: #ffffff;
 }
 
 .section-header {
@@ -98,7 +98,7 @@ section {
 
 .section-header p {
   margin-bottom: 0;
-  color: #6f6f6f;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
@@ -123,7 +123,7 @@ section {
 }
 
 .breadcrumbs nav {
-  background-color: #f6f6f6;
+  background-color: #ffffff;
   padding: 20px 0;
 }
 
@@ -365,7 +365,7 @@ section {
     font-family: var(--font-secondary);
     font-size: 16px;
     font-weight: 600;
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(217, 65, 65, 0.6);
     white-space: nowrap;
     transition: 0.3s;
     position: relative;
@@ -402,7 +402,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover > a {
-    color: #fff;
+    color: #dc3838;
   }
 
   .navbar .dropdown ul {
@@ -430,7 +430,7 @@ section {
     font-size: 15px;
     text-transform: none;
     font-weight: 600;
-    color: #006a5d;
+    color: #f185cf;
   }
 
   .navbar .dropdown ul a i {
