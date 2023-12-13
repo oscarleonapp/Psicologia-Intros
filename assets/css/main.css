@@ -241,7 +241,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #b18176;
+  background: #aaaad6;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -279,7 +279,7 @@ section {
 }
 
 .topbar .social-links a {
-  color: rgba(255, 255, 255, 0.7);
+  color: #fdb8a9;
   line-height: 0;
   transition: 0.3s;
   margin-left: 20px;
@@ -315,7 +315,7 @@ section {
   margin: 0;
   font-weight: 600;
   letter-spacing: 0.8px;
-  color: #fff;
+  color: #bbcfc6;
   font-family: var(--font-primary);
 }
 
@@ -611,14 +611,14 @@ section {
   font-weight: 700;
   font-size: 28px;
   margin-bottom: 20px;
-  font-family: var(--font-secondary);
+  font-family: #bbcfc6;
 }
 
 .about .call-us {
   left: 10%;
   right: 10%;
   bottom: 0;
-  background-color: #fff;
+  background-color: #ffffff;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
   padding: 20px;
   text-align: center;
@@ -633,7 +633,7 @@ section {
 .about .call-us p {
   font-size: 28px;
   font-weight: 700;
-  color: var(--color-primary);
+  color: #bbcfc6;
 }
 
 .about .content ul {
@@ -1897,7 +1897,7 @@ section {
   font-size: 48px;
   font-weight: 700;
   margin-bottom: 20px;
-  color: #fff;
+  color: #f185cf;
 }
 
 .hero p {
@@ -1915,7 +1915,7 @@ section {
   padding: 14px 40px;
   border-radius: 50px;
   transition: 0.3s;
-  color: #fff;
+  color: #e49292;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
   border: 2px solid rgba(255, 255, 255, 0.1);
@@ -1929,7 +1929,7 @@ section {
   font-size: 16px;
   transition: 0.5s;
   margin-left: 25px;
-  color: #fff;
+  color: #ff9696;
   font-weight: 600;
 }
 
@@ -1942,7 +1942,7 @@ section {
 }
 
 .hero .btn-watch-video:hover i {
-  color: #fff;
+  color: #d98d8d;
 }
 
 @media (max-width: 640px) {
@@ -1976,7 +1976,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #008d7d;
+  background: #9cdbd4;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
