@@ -10,8 +10,8 @@
   --text-color: #403A3A;
   --text-color-light: #707070;
   --container-color: #ffffff;
-  --container-color-alt: #cb9c89;
-  --body-color: #fec4ac;
+  --container-color-alt: #868F74;
+  --body-color: #D4D7C4;
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
@@ -424,7 +424,7 @@ img{
   display: block;
   width: 16px;
   height: 16px;
-  background-color: #ffc3ac;
+  background-color: #F3F7F8;
   border-radius: 50%;
   margin-top: .25rem;
 }
@@ -434,7 +434,7 @@ img{
   display: block;
   width: 2px;
   height: 110%;
-  background-color: #cb9c89;
+  background-color: #F3F7F8;
   transform: translate(7px, 0);
 }
 
