@@ -24,3 +24,41 @@ p {
   text-align: center;
   margin: 0;
 }
+
+/* Colores Psico Intros */
+.bg-verde{
+  background-color: #868F74;
+}
+.bg-verde-claro{
+  background-color: #D4D7C4;
+}
+.bg-gris-claro{
+  background-color: #F3F7F8;
+}
+.bg-azul-claro{
+  background-color: #8496A2;
+}
+.bg-azul-oscuro{
+  background-color: #687A86;
+}
+
+.text-verde{
+  color: #868F74;
+}
+.text-verde-claro{
+  color: #D4D7C4;
+}
+.text-gris-claro{
+  color: #F3F7F8;
+}
+.text-azul-claro{
+  color: #8496A2;
+}
+.text-azul-oscuro{
+  color: #687A86;
+}
+
+/* Fondo inicial */
+.bg-inicial{
+  background-color: #e28d96;
+}
