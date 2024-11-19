@@ -32,7 +32,27 @@
   <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
+<style>
+/* Mostrar menú completo en dispositivos móviles */
+@media (max-width: 768px) {
+  #navbar {
+    display: block; /* Asegura que el menú siempre esté visible */
+    position: static; /* Elimina el estilo fijo si existe */
+  }
+  #navbar ul {
+    display: flex; /* Muestra los elementos horizontalmente */
+    flex-direction: column; /* Alinea los elementos verticalmente */
+    text-align: center; /* Centra el texto */
+  }
+  .mobile-nav-toggle {
+    display: none; /* Oculta el menú hamburguesa */
+  }
+  .logo {
+    display: none; /* Oculta el nombre "Psico Intros" */
+  }
+}
 
+</style>
 <body>
 
   <!-- ======= Top Bar ======= -->
