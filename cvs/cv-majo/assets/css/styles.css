@@ -9,9 +9,9 @@
   --title-color: #0B0A0A;
   --text-color: #403A3A;
   --text-color-light: #707070;
-  --container-color: #FAFAFA;
-  --container-color-alt: #F0EFEF;
-  --body-color: #FCFCFC;
+  --container-color: #ffffff;
+  --container-color-alt: #868F74;
+  --body-color: #D4D7C4;
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
@@ -424,7 +424,7 @@ img{
   display: block;
   width: 16px;
   height: 16px;
-  background-color: var(--text-color-light);
+  background-color: #F3F7F8;
   border-radius: 50%;
   margin-top: .25rem;
 }
@@ -434,7 +434,7 @@ img{
   display: block;
   width: 2px;
   height: 110%;
-  background-color: var(--text-color-light);
+  background-color: #F3F7F8;
   transform: translate(7px, 0);
 }
 
